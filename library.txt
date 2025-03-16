@@ -1,0 +1,1 @@
+[{'title': 'The Secret', 'author': 'Rhonda Byrne', 'year': 2006, 'genre': 'Self-Help', 'read_status': True}, {'title': 'The Kite Runner', 'author': 'Khaled Hosseini', 'year': 2003, 'genre': 'Historical Fiction', 'read_status': False}]
